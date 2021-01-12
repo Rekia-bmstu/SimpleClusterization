@@ -1,0 +1,10 @@
+# ipynb
+.ipynb_checkpoints
+
+# vscode
+.vscode
+
+# env
+botenv
+env
+.env
